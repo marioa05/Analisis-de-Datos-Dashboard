@@ -5,7 +5,7 @@ Desarrollé un proyecto integral en Excel, creando múltiples paneles y tablas p
 El Supermercado Family quiere crear un informe de ventas anual para 2022. De este modo, el propietario de la tienda Superficie podrá comprender mejor a sus clientes y aumentar las ventas en 2023 y 2024.
 
 ## Dataset usado
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/marioa05/Analisis-de-Datos-Dashboard/blob/e39e7b5791fa64d70d2c39d951806210d49a77b3/Vrinda Data Analysis2.xlsx">Dataset</a>
 
 ## Preguntas (KPIs)
 - Comparar las ventas y los pedidos utilizando un único gráfico.
