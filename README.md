@@ -25,6 +25,10 @@ El Supermercado Family quiere crear un informe de ventas anual para 2022. De est
 - Crear tablas dinámicas según las preguntas formuladas.
 - Combinar todas las tablas dinámicas en un solo panel y aplicar un filtro para que sea dinámico.
 
+## Dashboard
+
+![Captura](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+
 ## Información de dashboard
 - Las mujeres son más propensas a comprar productos que los hombres (~65 %).
 - Los estados de Maharashtra, Karnataka y Uttar Pradesh son los tres principales compradores de productos.
